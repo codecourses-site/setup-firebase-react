@@ -19,7 +19,7 @@
 
 ## 2. Live Demo
 
-- For the full course, You can refer to this [link](https://codecourses.site/react/how-to-use-react-and-firebase-storage).
+- For the full course, You can refer to this [link](https://codecourses.site/react/how-to-set-up-firebase-in-react/).
 
 <a id="technologies"></a>
 
@@ -44,8 +44,8 @@ To run the demo follow these steps:
 ```js
 REACT_APP_FIREBASE_API_KEY=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
 REACT_APP_FIREBASE_AUTH_DOMAIN=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
-REACT_APP_FIREBASE_STORAGE_BUCKET =
-  xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+REACT_APP_FIREBASE_DATABASE_URL=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+REACT_APP_FIREBASE_STORAGE_BUCKET=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
 ```
 
 11. Make sure to exclude **.env** in your gitIgnore file from being exposed online.
