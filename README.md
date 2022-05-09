@@ -1,8 +1,4 @@
-# How to Use React & Firebase Storage
-
-![](./screenshots/screenshot1.png)
-![](./screenshots/screenshot2.png)
-
+# How to Set Up Firebase in React
 ## Table of Contents
 
 | No. | Topics                                    |
@@ -25,8 +21,6 @@
 
 - For the full course, You can refer to this [link](https://codecourses.site/react/how-to-use-react-and-firebase-storage).
 
-- You can refer to this [Youtube video](https://youtu.be/7-buLUtEeR8) for the live demo.
-
 <a id="technologies"></a>
 
 ## 3. Technologies
@@ -35,7 +29,6 @@ This demo uses:
 
 - Firebase
 - React.js
-- Uuid
 
 <a id="running-the-demo"></a>
 
@@ -43,7 +36,7 @@ This demo uses:
 
 To run the demo follow these steps:
 
-1. Download the repository [here](https://github.com/codecourses-site/react-firebase-storage/archive/main.zip) or by running `git clone https://github.com/codecourses-site/react-firebase-storage.git` and open it in a code editor.
+1. Download the repository [here](https://github.com/codecourses-site/setup-firebase-react/archive/main.zip) or by running `git clone https://github.com/codecourses-site/setup-firebase-react.git` and open it in a code editor.
 2. [Head to Firebase and create a new project](https://console.firebase.google.com)
 3. Create a file called **.env** in the root folder of your project.
 4. Import and inject your secret keys in the **.env** file containing your Firebase keys in this manner.
@@ -63,7 +56,7 @@ REACT_APP_FIREBASE_STORAGE_BUCKET =
     npm run start
 ```
 
-Questions about running the demo? [Open an issue](https://github.com/codecourses-site/react-firebase-storage/issues). We're here to help ✌️
+Questions about running the demo? [Open an issue](https://github.com/codecourses-site/setup-firebase-react/issues). We're here to help ✌️
 
 <a id="useful-links"></a>
 
